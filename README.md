@@ -6,5 +6,5 @@ Firefox (PC):
 - Doplňky a Vzhledy (Ctrl+Shift+A)
 - ozubené kolečko, Instalovat doplněk ze souboru
 - najít stažený xpi soubor, Otevřít
-- Přidat, Ok
+- Přidat, Ok 
 A je to 🐶
